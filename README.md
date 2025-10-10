@@ -37,10 +37,14 @@
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+</br>
+
 ## 🎯 Interests
 <h4>🧑🏻‍💻 Backend and Data Analysis <h4/>
 <h4>🤖 Artificial Intelligence & Machine Learning</h4>
 
+
+</br>
 
 ## Contact Me:
 
