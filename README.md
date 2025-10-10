@@ -9,7 +9,7 @@
 
 ## Skills:
 
-## 🌍 Languages
+#### 🌍 Languages
 <h4>🇪🇸 Spanish - Native</h4>
 <h4>🇬🇧 English - B2</h4>
 <h4>🇩🇪 German - B2/C1</h4>
