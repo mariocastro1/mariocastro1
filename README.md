@@ -27,5 +27,4 @@
 
 [![NodeJS](https://img.shields.io/badge/nodejs%20-%23DD0031.svg?&style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)](#)
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
-[![Flutter](https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
