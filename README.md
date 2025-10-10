@@ -9,6 +9,11 @@
 
 ## Skills:
 
+## 🌍 Languages
+<h4>🇪🇸 Spanish - Native</h4>
+<h4>🇬🇧 English - B2</h4>
+<h4>🇩🇪 German - B2/C1</h4>
+
 #### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
@@ -28,3 +33,13 @@
 [![NodeJS](https://img.shields.io/badge/nodejs%20-%23DD0031.svg?&style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)](#)
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## 🎯 Interests
+<h4>🧑🏻‍💻 Backend and Data Analysis <h4/>
+<h4>🤖 Artificial Intelligence & Machine Learning</h4>
+
+
+## Contact Me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/feryael-justice](https://www.linkedin.com/in/mario-castro-garcia-3a2910264))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castrogarciamario5@gmail.com)
