@@ -6,6 +6,7 @@
 <h4>🎓 I am currently studying the third year of this degree at the Humboldt University of Berlin while participating in an Erasmus+ program.</h4>  
 <h4>🚀 I am always curious and open to learning new technologies</h4>
 
+</br>
 
 ## Skills:
 
