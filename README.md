@@ -50,5 +50,6 @@
 
 ## Contact Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mario-castro-garcia-3a2910264](https://www.linkedin.com/in/mario-castro-garcia-3a2910264))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-castro-garcia-3a2910264)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castrogarciamario5@gmail.com)
