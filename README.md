@@ -43,6 +43,7 @@
 
 ## 🎯 Interests
 <h4>🧑🏻‍💻 Backend and Data Analysis <h4/>
+<h4>🧑🏻‍💻 CI/CD and DevOps <h4/>
 <h4>🤖 Artificial Intelligence & Machine Learning</h4>
 
 
