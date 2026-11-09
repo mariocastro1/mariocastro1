@@ -2,8 +2,8 @@
 <h1> Welcome to my github site! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 <h2>About me🕵🏻
-<h4>Hello I am Mario, a Software Engineering student from Sevilla(Spain) living in Berlin at present <h4/>
-<h4>🎓 I am currently studying the third year of this degree at the Humboldt University of Berlin while participating in an Erasmus+ program.</h4>  
+<h4>Hello I am Mario, a Software Engineering student from Sevilla(Spain)<h4/>
+<h4>🎓 I am currently studying the last year of this degree at the University of Sevilla, last year I studied in Humboldt University of Berlin while participating in an Erasmus+ program.</h4>  
 <h4>🚀 I am always curious and open to learning new technologies</h4>
 <h2/>
   
